@@ -2,7 +2,7 @@
 
 
 
-[Datset](https://www.quora.com](https://www.kaggle.com/datasets/crained/wearingmaskc19)
+[Lets go to Quora](https://www.quora.com)
 
 <h1> Trained Model </h1>
 <i>Name:</i> <b> yolov3_best.weights </b>
